@@ -1,0 +1,31 @@
+h1:hover  {
+      color:blue;
+      
+    }
+    a:visited  {
+      text-decoration: none;
+      
+    }
+    header  {
+      width: 75%;
+      display: block;
+      margin: auto;
+    }
+    article  {
+      width: 50%;
+      display: block;
+      margin: auto;
+    }
+    p::first-letter  {
+      font-size: 2em;
+    }
+    footer  {
+      border:1px solid red;
+      border-radius: 20px;
+      background-color: blue;
+      
+      
+    }
+    footer p  {
+      padding-left: 10px;
+    }
